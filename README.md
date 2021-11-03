@@ -84,4 +84,4 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [Poco](https://github.com/poco0317) - math degree (aka most of the fucking math in this project)
 
 ### NOTE
-**NOTE:** Do not run it from Kade Engine.exe, just run it from VS IHE.exe, okay? idk why it happens, hope i'll find a fix later.
+Do not run it from Kade Engine.exe, just run it from VS IHE.exe, okay? idk why it happens, hope i'll find a fix later.
